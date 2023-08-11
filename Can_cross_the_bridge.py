@@ -1,5 +1,5 @@
 x = int(input())
 y = int(input())
 z = int(input())
-m = int((z-y)/x)
+m = (z - y)//x;
 print(m)
